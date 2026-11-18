@@ -1,0 +1,8 @@
+Forney Aquatics Clean Deployment Package
+=======================================
+
+This ZIP has the project files at its root (no extra folder).
+For GitHub: extract, then upload the CONTENTS of the extracted folder.
+Netlify: base directory blank, build command npm run build, publish directory dist.
+Use the existing Firebase project and its current Auth user and Firestore rules.
+Do not upload the ZIP file itself to GitHub.
